@@ -8,11 +8,17 @@
             human.Greetings();
             Console.WriteLine("---");
 
+            // Когда создаётся новый объект не нужно писать Human human = new Human();, достаточно human = new Human("");
             human = new Human("Алексей");
             human.Greetings();
             Console.WriteLine("---");
 
             human = new Human("Жужа", 40);
+            human.Greetings();
+            Console.WriteLine("---");
+
+            // Вызов конструктора инициализатором
+            human = new Human { name = "Жопка хомячка", age = 2 };
             human.Greetings();
         }
         class Human
