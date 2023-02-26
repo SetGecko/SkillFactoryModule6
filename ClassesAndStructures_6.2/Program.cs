@@ -20,6 +20,9 @@
             // Вызов конструктора инициализатором
             human = new Human { name = "Жопка хомячка", age = 2 };
             human.Greetings();
+
+            Animal animal = new Animal { type = "Собака", name = "Вольт", age = 4 };
+            animal.Info();
         }
         class Human
         {
