@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
+            Human human= new Human();
+            human.Greetings();
 
+            human.name = "Алексей";
+            human.age = 35;
+            human.Greetings();
         }
         class Human
         {
