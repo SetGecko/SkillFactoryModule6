@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_6.3.2", "Task_6.3.2\Ta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxingUnboxing_6.4", "BoxingUnboxing_6.4\BoxingUnboxing_6.4.csproj", "{754B5A11-E93C-41C4-8619-37135AF8EFC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCast_6.5", "ScreenCast_6.5\ScreenCast_6.5.csproj", "{A05505E6-B38C-452C-B721-6E10897B3B34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenCast_6.5", "ScreenCast_6.5\ScreenCast_6.5.csproj", "{A05505E6-B38C-452C-B721-6E10897B3B34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6.5.2", "Task_6.5.2\Task_6.5.2.csproj", "{B16C28A5-481E-4A27-9FD1-00A77594AC87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_6.5.2", "Task_6.5.2\Task_6.5.2.csproj", "{B16C28A5-481E-4A27-9FD1-00A77594AC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeIncapsulation_6.6", "PracticeIncapsulation_6.6\PracticeIncapsulation_6.6.csproj", "{120F2745-2CBE-4040-A06B-7BEF3A6DCA86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B16C28A5-481E-4A27-9FD1-00A77594AC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B16C28A5-481E-4A27-9FD1-00A77594AC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B16C28A5-481E-4A27-9FD1-00A77594AC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120F2745-2CBE-4040-A06B-7BEF3A6DCA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120F2745-2CBE-4040-A06B-7BEF3A6DCA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120F2745-2CBE-4040-A06B-7BEF3A6DCA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120F2745-2CBE-4040-A06B-7BEF3A6DCA86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
