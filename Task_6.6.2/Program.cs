@@ -1,4 +1,4 @@
-﻿namespace Properties_6._6._1
+﻿namespace Task_6._6._2
 {
     internal class Program
     {
@@ -6,7 +6,7 @@
         {
             User user = new User();
 
-            user.Age = 14;
+            user.Age = 35;
 
             Console.WriteLine(user.Age);
 
@@ -24,14 +24,7 @@
             }
             set
             {
-                if (value < 18)
-                {
-                    Console.WriteLine("Возраст должен быть не меньше 18");
-                }
-                else
-                {
-                    age = value;
-                }
+                age = value;
             }
         }
     }
