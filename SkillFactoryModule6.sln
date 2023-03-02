@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesOnlyForReadOrWrit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersGetSet_6.6", "AccessModifiersGetSet_6.6\AccessModifiersGetSet_6.6.csproj", "{82FD9A2E-94B3-41D9-AD9F-BD59164A600D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomaticProperties_6.6", "AtomaticProperties_6.6\AtomaticProperties_6.6.csproj", "{B6AD5544-80D4-4208-95B8-29B7D350AF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{82FD9A2E-94B3-41D9-AD9F-BD59164A600D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82FD9A2E-94B3-41D9-AD9F-BD59164A600D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82FD9A2E-94B3-41D9-AD9F-BD59164A600D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AD5544-80D4-4208-95B8-29B7D350AF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AD5544-80D4-4208-95B8-29B7D350AF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AD5544-80D4-4208-95B8-29B7D350AF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AD5544-80D4-4208-95B8-29B7D350AF33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
